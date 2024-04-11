@@ -2,9 +2,9 @@
 
 🐼 Hi there! I'm Jian Chen, a full-stack game developer from the vibrant city of Shanghai, China.
 
-🕹️ Since 2011, I've been with [XD Inc.](https://xd.com), contributing to various exciting mobile game projects.
+🕹️ Since 2011, I've been working at [XD Inc.](https://xd.com), contributing to various exciting mobile game projects.
 
-🚀 GitHub is where I keep my side projects. Open-source has helped me a lot, and I hope to give back to the community.
+🚀 [GitHub](https://github.com/chensoft) is where I keep my side projects. Open-source has helped me a lot, and I hope to give back to the community.
 
 😊 Check out my repos and feel free to reach out!
 

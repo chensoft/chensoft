@@ -8,6 +8,8 @@
 
 😊 Check out my repos and feel free to reach out!
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/chensoft/chensoft/output/github-contribution-grid-snake.svg)
+
 ## Games
 
 - [派对之星](https://www.taptap.cn/app/202514)

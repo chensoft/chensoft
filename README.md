@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile! 🥳
+# Welcome to my GitHub! 🥳
 
 🐼 Hi there! I'm Jian Chen, a full-stack game developer from the vibrant city of Shanghai, China.
 

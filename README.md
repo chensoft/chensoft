@@ -12,6 +12,7 @@
 
 ## Games
 
+- 出发吧麦芬-微信小游戏
 - [派对之星](https://www.taptap.cn/app/202514)
 - [RO仙境传说海外版](https://www.taptap.io/app/191499)
 - [神仙道高清重制版](https://www.taptap.cn/app/3207)
@@ -30,7 +31,7 @@
 **Databases**
 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=flat&logo=cockroachlabs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 **Orchestration**

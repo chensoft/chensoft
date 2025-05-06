@@ -12,7 +12,7 @@
 
 ## Games
 
-- 出发吧麦芬-微信小游戏
+- [心动小镇](https://www.taptap.cn/app/45213)
 - [派对之星](https://www.taptap.cn/app/202514)
 - [RO仙境传说海外版](https://www.taptap.io/app/191499)
 - [神仙道高清重制版](https://www.taptap.cn/app/3207)
